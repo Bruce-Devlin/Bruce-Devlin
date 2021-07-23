@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ya pretty cute
 
 <!--
 **Bruce-Devlin/Bruce-Devlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
