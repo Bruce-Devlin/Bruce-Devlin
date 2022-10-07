@@ -6,7 +6,7 @@
 
 <p align="center">- ⭐ I’m currently working on a scary Unity game (https://github.com/Bruce-Devlin/PT_Clone)</p>
 
-<p align="center">- ⚡ Check out my gaming community https://publiczeus.com.com/</p>
+<p align="center">- ⚡ Check out my gaming community (https://publiczeus.com.com/)</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
