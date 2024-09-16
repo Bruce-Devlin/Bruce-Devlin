@@ -4,7 +4,7 @@
 <p align="center">- ⭐ I'm currently working on Scary Stories! (link soon)</p>
 <p align="center">- 🛠️ I'm also working on UBuild, a Unity & Unreal build automation tool! (https://ubuild.publiczeus.com/)</p>
 <br />
-<p align="center">- 🎮 Check out my looping, PT (Silent Hill) style demo... (https://github.com/Bruce-Devlin/PT_Clone)</p>
+<p align="center">- 🎮 Check out my looping, PT (Silent Hills) style demo... (https://github.com/Bruce-Devlin/PT_Clone)</p>
 <p align="center">- 🎙️ Check out VCOMM, a voice activated hotkey/macro app! (https://github.com/Bruce-Devlin/VComm)</p>
 <p align="center">- 🚀 Check out LIFTOFF, an all-in-one Steam game launcher! (https://github.com/Bruce-Devlin/LIFTOFF)</p>
 <br />
