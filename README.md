@@ -2,13 +2,15 @@
 <h3 align="center">A Software & QA Engineer from Glasgow, Scotland</h3>
 
 <p align="center">- ⭐ I'm currently working on Scary Stories! (link soon)</p>
-
-<p align="center">- ⭐ Check out my looping, PT (Silent Hill) style demo (https://github.com/Bruce-Devlin/PT_Clone)</p>
-
+<br />
+<p align="center">- 🛠️ I'm also working on UBuild, a Unity & Unreal build automation tool! (https://ubuild.publiczeus.com/)</p>
+<br />
+<p align="center">- 🎮 Check out my looping, PT (Silent Hill) style demo... (https://github.com/Bruce-Devlin/PT_Clone)</p>
+<p align="center">- 🎙️ Check out VCOMM, a voice activated hotkey/macro app! (https://github.com/Bruce-Devlin/VComm)</p>
+<p align="center">- 🚀 Check out LIFTOFF, an all-in-one Steam game launcher! (https://github.com/Bruce-Devlin/LIFTOFF)</p>
+<br />
 <p align="center">- ⚡ Check out my gaming community (https://publiczeus.com/)</p>
-
-
-<h3 align="center">My Stack:</h3>
+<h3 align="center">MY STACK:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
