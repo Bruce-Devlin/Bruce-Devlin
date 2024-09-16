@@ -1,8 +1,7 @@
 <h1 align="center">Hello I'm Bruce! 👋</h1>
 <h3 align="center">A Software & QA Engineer from Glasgow, Scotland</h3>
-
-<p align="center">- ⭐ I'm currently working on Scary Stories! (link soon)</p>
 <br />
+<p align="center">- ⭐ I'm currently working on Scary Stories! (link soon)</p>
 <p align="center">- 🛠️ I'm also working on UBuild, a Unity & Unreal build automation tool! (https://ubuild.publiczeus.com/)</p>
 <br />
 <p align="center">- 🎮 Check out my looping, PT (Silent Hill) style demo... (https://github.com/Bruce-Devlin/PT_Clone)</p>
